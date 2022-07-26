@@ -20,11 +20,11 @@ int main()
 	
 	if (n==rev)
 	{
-		cout<<" The Number is a Palindrome";
+		cout<<" The Number is a Palindrome.";
 	}
 	else
 	{
-		cout<<" The Number is not a Palindrome";
+		cout<<" The Number is not a Palindrome.";
 	}
 	
 	return 0;
